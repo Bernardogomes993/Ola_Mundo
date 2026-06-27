@@ -1,2 +1,2 @@
-# Ola_Mundo
-Primeiro_Repositorio_Git
+# Olá, Mundo
+Primeiro Repositório de Git através de um curso online do Gustavo Guanabara.
